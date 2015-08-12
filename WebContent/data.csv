@@ -1,0 +1,4 @@
+patientId,visitDate,patientName,temperature,BP/Systolic,BP/Diastolic,Weight
+100,2015-03-01,vinay,102,220,278,100
+100,2015-02-01,vinay,101,209,245,95
+100,2015-01-01,vinay,100,205,245,89
